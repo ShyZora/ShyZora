@@ -3,7 +3,8 @@
         "educationList": "教育背景",
         "projectList": "项目经验",
         "skillList": "个人技能",
-        "awardList": "荣誉证书"
+        "awardList": "荣誉证书",
+        "aboutme": "sadsda"
     },
     "avatar": {
         "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
@@ -89,6 +90,7 @@
         }
     ],
     "workList": [],
+    "aboutme": {},
    
     "theme": {
         "color": "#2f5785",
