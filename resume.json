@@ -70,6 +70,8 @@
     "projectList": [
       
             "project_name": "seckilling-system",
+            "project_role": "",
+            "project_time": "",
             "project_desc": "一个微服务架构的电商秒杀系统，采用第三方开源项目加速前后端系统快速搭建，基于RabbitMQ，Redis等中间件实现，主要实现了登录注册模块，订单模块，秒杀模块，商品支付模块等。",
             "project_content": "1. 项目从0到1的框架设计和开发 \n 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
     ],
