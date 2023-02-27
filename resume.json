@@ -43,30 +43,30 @@
 
         {
             "skill_name": "计算机基础",
-            "skill_desc": "计算机基础:熟练使用常用的数据结构与算法，理解TCP，HTTPS等网络协议"
+            "skill_desc": "计算机基础 : 熟练使用常用的数据结构与算法，理解TCP，HTTPS等网络协议"
 
         },
         {
             "skill_name": "Java",
-            "skill_desc": "Java:熟练使用Java集合框架，熟悉集合底层使用的数据结构，熟悉VM内存区域，垃圾回收算法等，了解类加载过程与双亲委派模型机制。熟悉Java锁机制，Java多线程开发等"
+            "skill_desc": "Java : 熟练使用Java集合框架，熟悉集合底层使用的数据结构，熟悉VM内存区域，垃圾回收算法等，了解类加载过程与双亲委派模型机制。熟悉Java锁机制，Java多线程开发等"
 
         },
         {
             "skill_name": "数据库",
-            "skill_desc": "数据库:深刻理解MySL底层索引使用的数据结构，了解SQL语句在MySQL中的执行过程，InnoDB存储引擎对MVCC的实现，理解索引设计规范，熟悉Redis持久化机制，主从与哨兵架构等，熟悉Redis线程模型"
+            "skill_desc": "数据库 : 深刻理解MySL底层索引使用的数据结构，了解SQL语句在MySQL中的执行过程，InnoDB存储引擎对MVCC的实现，理解索引设计规范，熟悉Redis持久化机制，主从与哨兵架构等，熟悉Redis线程模型"
 
         },
         {
             "skill_name": "框架",
-            "skill_desc": "框架:了解Spring的基本工作原理，并能熟练运用Spring生态下SpringBoot和SpringCloud等主流框架进行微服务开发。"
+            "skill_desc": "框架 : 了解Spring的基本工作原理，并能熟练运用Spring生态下SpringBoot和SpringCloud等主流框架进行微服务开发。"
         },
         {
             "skill_name": "分布式",
-            "skill_desc": "分布式:熟练Redis在各种应用场景下的使用，对Redis有较深入的理解，有RabbitMQ消息中间件开发经验"
+            "skill_desc": "分布式 : 熟练Redis在各种应用场景下的使用，对Redis有较深入的理解，有RabbitMQ消息中间件开发经验"
         },
         {
             "skill_name": "安全",
-            "skill_desc": "安全:熟悉基于Spring Security，token，cookie-session的身份验证，理解基于]wt的认证解决方案。"
+            "skill_desc": "安全 : 熟悉基于Spring Security，token，cookie-session的身份验证，理解基于]wt的认证解决方案。"
         }
     ],
     "projectList": [
