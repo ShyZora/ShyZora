@@ -90,7 +90,7 @@
         }
     ],
     "workList": [],
-   
+   "aboutme": { "aboutme_desc": "" },
    
     "theme": {
         "color": "#2f5785",
